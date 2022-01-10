@@ -5,9 +5,9 @@ using System.Text;
 
 namespace additiontwonumber
 {
-    class Program
+    class sum
     {
-        static void Main(string[] args)
+      public  static void add()
         {
             int a, b, c;
             Console.WriteLine("ENTER THE VALUE OF A :- ");
